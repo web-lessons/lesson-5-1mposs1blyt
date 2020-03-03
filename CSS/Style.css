@@ -1,0 +1,57 @@
+/* Обнуление стилей*/
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+#head {
+    background-color: white;
+    height:75px;
+}
+
+#sidebar {
+    float: left;
+    width: 200px;
+    background-color: #ffffff;
+}
+
+#content {
+    width: 588px;
+    background-color: #ffffff;
+    float: right;
+    padding: 6px;
+}
+
+
+#footer {
+    background-color: #fa0920;
+}
+
+.wrap {
+    width: 800px;
+    margin: auto;
+}
+
+.clear {
+    clear: both;
+
+}
+
+#footer {
+
+}
+
+#nav ul li {
+    Display: inline;
+    margin-right: 100px;
+    padding: 6px;
+    font-size: 16px;
+}
+
+#nav ul, li, a:hover {
+    color: lawngreen;
+
+}
+
+
